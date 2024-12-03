@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently working as **Web developer**
 
-- 👨‍💻 All of my projects are available at [https://adarsh-oo7.github.io/Adarsh/](https://adarsh-oo7.github.io/Adarsh/)
+- 👨‍💻 All of my projects are available at [https://adarshbs.com/)
 
 - 📫 How to reach me **adarshsarachandran@gmail.com**
 
